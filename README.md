@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="[https://ai.google.dev/static/site-assets/images/share-ais-513315318.png](https://kommodo.ai/i/92kcH9cKtS72rFDx9eFT)" />
+   <img width="3062" height="1282" alt="Screenshot 2026-08-01 at 00 02 55" src="https://github.com/user-attachments/assets/22932e57-3ecf-42fc-99f8-8d4e2622428a" />
+
 </div>
 
 
