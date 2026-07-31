@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "A responsive finance tracker with monthly spending insights and a beautiful dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
